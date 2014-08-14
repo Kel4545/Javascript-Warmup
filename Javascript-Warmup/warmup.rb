@@ -18,7 +18,7 @@ class Exercise
   def range(start, finish)
     array = []
     range = (start..finish).to_a
-    @range = array.push(range).first
+    @kitten = array.push(range).first
   end
 
 
